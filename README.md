@@ -12,8 +12,3 @@ Backpack to control HD44780 compatible displays over UART or I2C.
 
 ## Shop
 * [LCD-BackPack](http://www.watterott.com/en/LCD-BackPack)
-
-
-## Hardware and Software
-* [Schematics + Layout](https://github.com/watterott/LCD-BackPack/tree/master/hardware)
-* [Arduino Firmware/Example](https://github.com/watterott/Arduino-Libs/tree/master/LCD_BackPack/examples/SerLCD)
