@@ -8,7 +8,4 @@ Backpack to control HD44780 compatible displays over UART or I2C.
 * Serial (UART) and I2C interface
 * Single LED and RGB LED backlight support (dimmable)
 * Compatible with [SparkFun SerLCD](https://github.com/sparkfun/Serial_Enabled_LCD_Backpack)
-
-
-## Shop
-* [LCD-BackPack](http://www.watterott.com/en/LCD-BackPack)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/lcd-backpack/)**
